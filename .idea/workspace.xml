@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b62f762e-e56d-4247-8655-f5ff25a333d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c66dfc0e-a16d-458a-bc6b-9c59da99ea84.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c66dfc0e-a16d-458a-bc6b-9c59da99ea84.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ZGyMWPu9r6YBMvgXHPYfGJAA9I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/FPT aptech/nodejs/Session/class3",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2023.2.4\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\OneDrive\Máy tính\music-ui\src\assets" />
+      <recent name="C:\Users\DELL\OneDrive\Máy tính\music-ui\src\containers" />
+      <recent name="C:\Users\DELL\OneDrive\Máy tính\music-ui\src" />
+      <recent name="C:\Users\DELL\OneDrive\Máy tính\music-ui\src\components" />
+      <recent name="C:\Users\DELL\OneDrive\Máy tính\music-ui\src\pages\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/index.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b62f762e-e56d-4247-8655-f5ff25a333d6" name="Changes" comment="" />
+      <created>1702062662329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702062662329</updated>
+      <workItem from="1702062663450" duration="60000" />
+      <workItem from="1702107724217" duration="17289000" />
+      <workItem from="1702196327494" duration="872000" />
+      <workItem from="1702224054521" duration="3697000" />
+      <workItem from="1702263623566" duration="10422000" />
+      <workItem from="1702276774845" duration="4865000" />
+      <workItem from="1702292989999" duration="4740000" />
+      <workItem from="1702351044071" duration="2515000" />
+      <workItem from="1702353598887" duration="16390000" />
+      <workItem from="1702371700647" duration="5042000" />
+      <workItem from="1702435298764" duration="4936000" />
+      <workItem from="1702440609241" duration="3036000" />
+      <workItem from="1702445968829" duration="7206000" />
+      <workItem from="1702453790636" duration="905000" />
+      <workItem from="1702471043412" duration="5085000" />
+      <workItem from="1702479678173" duration="1990000" />
+      <workItem from="1702522508029" duration="2919000" />
+      <workItem from="1702548482455" duration="73000" />
+      <workItem from="1702552550911" duration="1570000" />
+      <workItem from="1702640954464" duration="40000" />
+      <workItem from="1702899589154" duration="73000" />
+      <workItem from="1703162764046" duration="150000" />
+      <workItem from="1703325507655" duration="398000" />
+      <workItem from="1703329706497" duration="59000" />
+      <workItem from="1705729189076" duration="126000" />
+      <workItem from="1709414674940" duration="20000" />
+      <workItem from="1709420538888" duration="3590000" />
+      <workItem from="1709550055870" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
